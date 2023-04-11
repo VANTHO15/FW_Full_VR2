@@ -7,10 +7,10 @@ Eb tresos 28.0
 + Gen module nào thì vào test/EbProject/.prefs/pref_general.xdm và mở module đó ra
  
 
-#B1, vào user_config cấu hình
-#B2, Vào test/EbProject/.prefs/pref_general.xdm và mở module ra
-#B3, Lấy file .xdm và bỏ vào TS trong Config_Xdm
-#B4,
++ B1, vào user_config cấu hình
++ B2, Vào test/EbProject/.prefs/pref_general.xdm và mở module ra
++ B3, Lấy file .xdm và bỏ vào TS trong Config_Xdm
++ B4
 #    run: 
 + python main.py -o prepare 
 + python main.py -o eb
