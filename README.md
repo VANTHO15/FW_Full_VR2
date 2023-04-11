@@ -12,13 +12,13 @@ Eb tresos 28.0
 #B3, Lấy file .xdm và bỏ vào TS trong Config_Xdm
 #B4,
 #    run: 
-#    python main.py -o prepare 
-#    python main.py -o eb
-#    python main.py -o generate 
-#    python main.py -o compile 
-#    python main.py -o debug      // Sau đó bấm enter 2 lần
-#    python main.py -o report 
-#    python main.py -o download 
-#    python main.py --help
++ python main.py -o prepare 
++ python main.py -o eb
++ python main.py -o generate 
++ python main.py -o compile 
++ python main.py -o debug      // Sau đó bấm enter 2 lần
++ python main.py -o report 
++ python main.py -o download 
++ python main.py --help
 
-#    cls
++ cls
